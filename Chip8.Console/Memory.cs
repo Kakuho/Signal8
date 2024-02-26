@@ -3,7 +3,8 @@ static public class Memory{
     public byte[] data = new byte[4096];
 
     public Ram(){
-
+      Fontset fs_tmp = new Fontset();
+      CopyFontset(fs_tmp);
     }
 
     public byte Get(uint index){
@@ -12,6 +13,13 @@ static public class Memory{
 
     public void Set(uint index, byte val){
       data[index] = val;
+    }
+
+    private void CopyFontset(Fontset fs){
+      uint fontstart = 0x00;
+      for(uint i = fontstart; i < fs.data.Length; i++){
+        data[i] = fs.data[i];
+      }
     }
   }
 
