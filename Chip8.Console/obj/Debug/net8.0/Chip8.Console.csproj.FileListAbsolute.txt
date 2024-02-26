@@ -1,0 +1,15 @@
+/home/ka/fullstack/Signal8/Chip8.Console/bin/Debug/net8.0/Chip8.Console
+/home/ka/fullstack/Signal8/Chip8.Console/bin/Debug/net8.0/Chip8.Console.deps.json
+/home/ka/fullstack/Signal8/Chip8.Console/bin/Debug/net8.0/Chip8.Console.runtimeconfig.json
+/home/ka/fullstack/Signal8/Chip8.Console/bin/Debug/net8.0/Chip8.Console.dll
+/home/ka/fullstack/Signal8/Chip8.Console/bin/Debug/net8.0/Chip8.Console.pdb
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.AssemblyInfoInputs.cache
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.AssemblyInfo.cs
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.csproj.CoreCompileInputs.cache
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.sourcelink.json
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.dll
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/refint/Chip8.Console.dll
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.pdb
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/Chip8.Console.genruntimeconfig.cache
+/home/ka/fullstack/Signal8/Chip8.Console/obj/Debug/net8.0/ref/Chip8.Console.dll
