@@ -1,4 +1,4 @@
-static public class Memory{
+namespace Memory{
   public sealed class Ram{
     public byte[] data = new byte[4096];
 
@@ -24,6 +24,7 @@ static public class Memory{
   }
 
   public sealed class FrameBuffer{
+    // envision as a set of Frame where each cell is either on or off
     public bool[] data = new bool[64*31];
 
     public bool Get(uint index){
@@ -32,6 +33,17 @@ static public class Memory{
 
     public void Set(uint index, bool state){
       data[index] = state;
+    }
+
+    public void Clear(){
+      /*
+      foreach(ref bool cell in data){
+        cell = false;
+      }
+      */
+      for(int i = 0; i < data.Length; i++){
+        data[i] = false;
+      }
     }
   }
 
